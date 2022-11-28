@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# :seedling: EcoToken (ECO)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+EcoToken is a token used to reward participants in the recycling and other ecoactivities in the network EcoCycle.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+- Token Name: EcoToken (ECO)
+- Supply: 20,000,000
+- Contract Deployed Address: 0x7463a97b7B20643E0a9AaE969791F066b7575F15
+- Contract Verified at: https://mumbai.polygonscan.com/address/0x7463a97b7B20643E0a9AaE969791F066b7575F15#code
