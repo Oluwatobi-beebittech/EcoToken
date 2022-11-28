@@ -2,6 +2,11 @@
 
 EcoToken is a token used to reward participants in the EcoCycle network who recycle and engage in other eco-activities aimed at addressing climate change in Africa.
 
+## :hammer_and_wrench: Built with
+- Solidity version 0.8.17
+- Typescript
+
+## :control_knobs: Contract Details
 - Token Name: EcoToken (ECO)
 - Supply: 20,000,000
 - Decimals: 2
