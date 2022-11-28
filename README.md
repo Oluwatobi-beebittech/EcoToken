@@ -1,6 +1,6 @@
-# :seedling: EcoToken (ECO)
+# :recycle: :seedling: EcoToken (ECO)
 
-EcoToken is a token used to reward participants in the recycling and other ecoactivities in the network EcoCycle.
+EcoToken is a token used to reward participants in the EcoCycle network who recycle and engage in other eco-activities aimed at addressing climate change in Africa.
 
 - Token Name: EcoToken (ECO)
 - Supply: 20,000,000
