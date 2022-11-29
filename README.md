@@ -8,10 +8,10 @@ EcoToken is a token used to reward participants in the EcoCycle network who recy
 
 ## :control_knobs: Contract Details
 - Token Name: EcoToken (ECO)
-- Supply: 20,000,000
+- Initial Supply: 20,000,000
 - Decimals: 2
-- Contract Deployed Address: 0x7463a97b7B20643E0a9AaE969791F066b7575F15
-- Contract Verified at: https://mumbai.polygonscan.com/address/0x7463a97b7B20643E0a9AaE969791F066b7575F15#code
+- Contract Deployed Address: 0x300aca0433775D4848675D8876c9c604BC0887F0
+- Contract Verified at: https://mumbai.polygonscan.com/address/0x300aca0433775D4848675D8876c9c604BC0887F0#code
 
 ## :gem: EcoCycle Application Repositories
 - [**EcoCycle Frontend**](https://github.com/Oluwatobi-beebittech/EcoCycle#readme)

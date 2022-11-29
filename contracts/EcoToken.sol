@@ -20,7 +20,7 @@ contract EcoToken is ERC20, ERC20Burnable, Pausable, Ownable {
     uint256 private _price;
 
     constructor(uint256 initialSupply) ERC20("EcoToken", "ECO") {
-        _mint(msg.sender, initialSupply * (10**uint256(decimals())));
+        _mint(_msgSender(), initialSupply * (10**uint256(decimals())));
     }
 
     function decimals() public pure override returns (uint8) {
@@ -45,6 +45,10 @@ contract EcoToken is ERC20, ERC20Burnable, Pausable, Ownable {
 
     function getEarnedTokenBalance() public view returns (uint256){
         return _earnedTokens[_msgSender()];
+    }
+
+    function mint(uint256 amount) public onlyOwner {
+        _mint(_msgSender(), amount);
     }
 
     function reward(
