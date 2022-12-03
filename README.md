@@ -1,3 +1,4 @@
+![EcoCycle Banner](https://res.cloudinary.com/dfybu7w8o/image/upload/v1670102878/ecocycle_banner_728X90_zc2ftp.png)
 # :recycle: :seedling: EcoToken (ECO)
 
 EcoToken is a token used to reward participants in the EcoCycle network who recycle and engage in other eco-activities aimed at addressing climate change in Africa.
